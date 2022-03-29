@@ -1,5 +1,5 @@
 # nethereum-sandbox
-Samples and experiments with [Nethereum](https://nethereum.com/).
+Samples and experiments with [Nethereum](https://nethereum.com/), the .NET integration library for blockchain.
 
 
 Initial repo based on [Get Started with Nethereum](https://docs.nethereum.com/en/latest/getting-started/).
@@ -9,7 +9,7 @@ A similar example can also be found at the [Nethereum Playground](http://playgro
 
 Requires dotnet CLI.
 
-**NB**: You will need to change the URL to use your own [Infura](https://infura.io/) API KEY. Otherwise you will received a 403 (Forbidden) exception.
+**NB**: You will need to change the URL to use your own [Infura](https://infura.io/) API KEY. Otherwise you will receive a 403 (Forbidden) exception.
 
 
 Compile:
